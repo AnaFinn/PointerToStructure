@@ -1,0 +1,2 @@
+C:\Users\200856629\OneDrive - UP Education\Desktop\cs103\source\repos\Pointers\Debug\Pointers.exe
+C:\Users\200856629\OneDrive - UP Education\Desktop\cs103\source\repos\Pointers\Debug\Pointers.pdb
